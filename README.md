@@ -14,7 +14,7 @@
   * Flutter Kicks (ท้องล่าง)
   * Russian Twist (ท้องข้าง)
 * **ตั้งค่าเวลามาตรฐาน:**
-  * Work Time: 10 วินาที
+  * Work Time: 20 วินาที
   * Rest Time: 10 วินาที
   * Set Rest Time: 20 วินาที
   * Total Sets: 3 เซ็ต
